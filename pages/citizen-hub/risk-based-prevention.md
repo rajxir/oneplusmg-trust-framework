@@ -10,11 +10,11 @@ permalink: /lets-talk-genomics/risk-based-prevention
 
 # Preventing diseases
 
-Genomic testing can provide information about a person’s increased risk of developing certain health conditions. This can be useful for prevention, tailored monitoring and earlier diagnosis. However, genomic information is not a crystal ball. It rarely provides definite answers and cannot predict with certainty whether someone will develop a condition, when symptoms may appear or how severe the condition might be. Instead, genomic testing offers information about risk, expressed as probabilities. Risk-based prevention can therefore be helpful, but it also comes with uncertainty. Understanding and communicating this uncertainty clearly is essential.
+[Genomic](glossary#genomics) testing can provide information about a person’s increased risk of developing certain health conditions. This can be useful for prevention, tailored monitoring and earlier diagnosis. However, genomic information is not a crystal ball. It rarely provides definite answers and cannot predict with certainty whether someone will develop a condition, when symptoms may appear or how severe the condition might be. Instead, genomic testing offers information about risk, expressed as probabilities. Risk-based prevention can therefore be helpful, but it also comes with uncertainty. Understanding and communicating this uncertainty clearly is essential.
 
 ## Understanding the limits
 
-Even for conditions largely influenced by a single gene (for example, some hereditary cancers), genomic tests do not provide complete certainty. For common and complex conditions, such as diabetes, heart disease and many neurological conditions, uncertainty is even greater. These conditions usually result from a combination of many genetic factors, as well as lifestyle, environmental and social influences. As a result, the predictive accuracy of genomic tests for complex diseases is still debated, and results may be less reliable across populations.
+Even for conditions largely influenced by a single [gene](glossary#gene) (for example, some hereditary cancers), genomic tests do not provide complete certainty. For common and [complex conditions](glossary#complex-disease), such as diabetes, heart disease and many neurological conditions, uncertainty is even greater. These conditions usually result from a combination of many genetic factors, as well as lifestyle, environmental and social influences. As a result, the predictive accuracy of genomic tests for complex diseases is still debated, and results may be less reliable across populations.
 
 ## Ethical and societal considerations
 
