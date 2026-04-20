@@ -7,7 +7,7 @@ permalink: /lets-talk-genomics/preconception-carrier-screening
 
 ## What is preconception carrier screening?
 
-When couples or individuals are planning to have children, they may choose to learn more about their genetic makeup before conception. Through preconception genetic carrier screening (PGCS), it is possible to test whether one or both partners carry genetic variants that, on their own, do not cause health problems, but which — when combined — could increase the risk of certain inherited conditions in their children.
+When couples or individuals are planning to have children, they may choose to learn more about their genetic makeup before conception. Through preconception genetic [carrier screening](glossary#carrier-screening) (PGCS), it is possible to test whether one or both partners carry genetic [variants](glossary#variant) that, on their own, do not cause health problems, but which — when combined — could increase the risk of certain inherited conditions in their children.
 
 The aim of PGCS is to provide prospective parents with information that may help them better understand potential genetic risks and consider their reproductive options. PGCS is not yet standard practice in most European countries, although this may change as technologies develop and awareness increases.
 
