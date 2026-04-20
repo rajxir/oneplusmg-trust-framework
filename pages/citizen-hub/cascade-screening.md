@@ -19,4 +19,4 @@ Some family members may want to receive this kind of information, while others m
 
 There is also uncertainty about the role and responsibilities of healthcare professionals. Should they focus strictly on patient confidentiality, or do they have a duty to help ensure that relatives who may be at risk are informed?
 
-European countries are adopting varying approaches to these questions, seeking to strike a balance between privacy, professional responsibility and public health considerations. As genomic testing becomes more common, policies and practices around cascade screening continue to evolve.
+European countries are adopting varying approaches to these questions, seeking to strike a balance between privacy, professional responsibility and public health considerations. As [genomic](glossary#genomics) testing becomes more common, policies and practices around cascade screening continue to evolve.
