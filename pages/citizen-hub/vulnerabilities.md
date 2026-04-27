@@ -46,7 +46,7 @@ Where treatments do exist, they may be extremely expensive and offer uncertain b
 >  
 > A widely cited case is that of [*baby Pia* in Belgium](https://www.brusselstimes.com/72812/belgian-toddler-pia-has-received-treatment-with-life-saving-drug). Pia was born with the most severe form of SMA in 2019, when Zolgensma was not yet approved or reimbursed in Belgium. The parents asked Novartis for compassionate access or a donation, but it refused. The family then crowdfunded the full amount in just a few days, sparking much national controversy and public debate on the need for structural solutions. 
 
-## Privacy risks
+### Privacy risks
 
 Rare diseases affect small populations, which means genomic data linked to them are inherently scarce. When datasets include related family members and unique genetic variants, the [risk of identifying individuals increases](https://pubmed.ncbi.nlm.nih.gov/35154238/). An analogy is often used: in a small village, describing a person with a distinctive trait and family connections may make it easy to identify them. The same applies to rare-disease data.
 
