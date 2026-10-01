@@ -1,6 +1,5 @@
 ---
 layout: lets-talk-genomics
-permalink: /lets-talk-genomics/citizen-engagement-initiative-materials
 ---
 
 <!-- Proposed replacement page. Before publication, complete the editorial
