@@ -1,5 +1,6 @@
 ---
 layout: lets-talk-genomics
+permalink: /lets-talk-genomics/debbietest
 ---
 
 <!-- Proposed replacement page. Before publication, complete the editorial
