@@ -2,14 +2,15 @@
 layout: citizen-hub-subpage
 permalink: /lets-talk-genomics/risk-based-prevention
 ---
+# Preventing diseases
 
 ## On this page
+- [Genomic testing, risk and uncertainty](#genomic-testing-,-risk-and-uncertainty)
 - [Understanding the limits](#understanding-the-limits)
 - [Ethical and societal considerations](#ethical-and-societal-considerations)
 - [Turning risk information into action](#turning-risk-information-into-action)
 
-# Preventing diseases
-
+## Genomic testing, risk and uncertainty
 [Genomic](glossary#genomics) testing can provide information about a person’s increased risk of developing certain health conditions. This can be useful for prevention, tailored monitoring and earlier diagnosis. However, genomic information is not a crystal ball. It rarely provides definite answers and cannot predict with certainty whether someone will develop a condition, when symptoms may appear or how severe the condition might be. Instead, genomic testing offers information about risk, expressed as probabilities. Risk-based prevention can therefore be helpful, but it also comes with uncertainty. Understanding and communicating this uncertainty clearly is essential.
 
 ## Understanding the limits
