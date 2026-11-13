@@ -1034,7 +1034,7 @@ img.middlepos{
     scroll-behavior: smooth;
 }
 
-#prs:target, #personalised-medicine:target,  #carrier-status:target,  #carrier-screening:target, #cascade-screening:target, #complex-disease:target, #congenital-disease:target, #direct-to-consumer-test:target, #dna:target, #exome:target, #gene:target, #genome:target, #genomics:target, #genotype:target, #mutation:target, #pharmacogenomics:target, #phenotype:target, #rare-disease:target, #sequencing:target, #variant:target, #vus:target, #wgs:target{
+#prs:target, #personalised-medicine:target,  #carrier-status:target,  #carrier-screening:target, #cascade-screening:target, #complex-disease:target, #congenital-disease:target, #direct-to-consumer-test:target, #dna:target, #exome:target, #gene:target, #genome:target, #genomics:target, #genotype:target, #mutation:target, #pharmacogenomics:target, #phenotype:target, #rare-disease:target, #sequencing:target, #variant:target, #vus:target, #wgs:target, #chromosomal-condition:target, #genetic-counselling:target, #genetic-determinism:target{
     background-color: #B4D6A0;
     animation: fadeOut 2s ease-in-out 0.5s forwards; /* 0.5s delay for scroll */
 }

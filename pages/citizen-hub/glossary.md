@@ -43,6 +43,13 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
+      <td id="chromosomal-condition">Chromosomal condition</td>
+      <td>
+        A health or developmental condition caused by a change in the number or structure of a person’s chromosomes. This may involve having an extra or missing chromosome, or a piece of a chromosome that is missing, duplicated or rearranged.
+      </td>
+    </tr>
+
+    <tr>
       <td id="complex-disease">Complex disease</td>
       <td>
         A health condition caused by a combination of genetic factors, lifestyle behaviours,
@@ -91,6 +98,18 @@ This glossary describes terms related to genomics that are frequently used on th
         A section of DNA that contains instructions for making specific proteins that help the
         body work. Our genes contain the information needed to specify our biological and
         physical characteristics.
+      </td>
+    </tr>
+    <tr>
+      <td id="genetic-counselling">Genetic counselling</td>
+      <td>
+        Guidance with a specially trained health professional who helps patients (and sometimes also relatives) understand how inherited conditions work and what their personal or family risk might be. Genetic counsellors may review family and medical history, explain or arrange genetic testing, and support in making informed decisions and coping with the results.
+      </td>
+    </tr>
+    <tr>
+      <td id="genetic-determinism">Genetic determinism</td>
+      <td>
+        The belief that a person’s genes alone determine their characteristics and health, with little or no influence from environmental factors, lifestyle or personal experiences.
       </td>
     </tr>
 
@@ -196,6 +215,7 @@ This glossary describes terms related to genomics that are frequently used on th
         identify variants that may affect health or disease.
       </td>
     </tr>
+    
   </tbody>
 </table>
 
