@@ -288,9 +288,9 @@ permalink: /lets-talk-genomics/debbietest
 
       <ul class="ge-links">
         <li>
-          <a href="https://www.ccne-ethique.fr/sites/default/files/2022-05/Rapport%20de%20synthe%CC%80se%20CCNE%20Bat.pdf">
-            Read the bioethics consultation report in French (PDF)
-          </a>
+          Read the
+          <a href="https://www.ccne-ethique.fr/sites/default/files/2022-05/Rapport%20de%20synthe%CC%80se%20CCNE%20Bat.pdf">bioethics consultation report in French</a>
+          (PDF)
         </li>
       </ul>
     </article>
@@ -328,14 +328,13 @@ permalink: /lets-talk-genomics/debbietest
 
       <ul class="ge-links">
         <li>
-          <a href="https://files.genomicsengland.co.uk/images/News-and-Events/News-Articles-Images/black-african-black-caribbean-communities-participation-100kgp.pdf">
-            Read the report on participation in the 100,000 Genomes Project (PDF)
-          </a>
+          Read the
+          <a href="https://files.genomicsengland.co.uk/images/News-and-Events/News-Articles-Images/black-african-black-caribbean-communities-participation-100kgp.pdf">report on participation in the 100,000 Genomes Project</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://www.genomicsengland.co.uk/news/100000-genomes-project-public-attitudes">
-            About the public engagement research
-          </a>
+          About the
+          <a href="https://www.genomicsengland.co.uk/news/100000-genomes-project-public-attitudes">public engagement research</a>
         </li>
       </ul>
     </article>
@@ -375,19 +374,18 @@ permalink: /lets-talk-genomics/debbietest
 
       <ul class="ge-links">
         <li>
-          <a href="https://www.sciensano.be/sites/default/files/kbs_pod_fr_genoominfo_26.03.2019_hr.pdf">
-            Read the citizen forum report in French (PDF)
-          </a>
+          Read the
+          <a href="https://www.sciensano.be/sites/default/files/kbs_pod_fr_genoominfo_26.03.2019_hr.pdf">citizen forum report in French</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://www.sciensano.be/sites/default/files/kbs_pod_nl_genoominfo_26.03.2019_hr.pdf">
-            Read the citizen forum report in Dutch (PDF)
-          </a>
+          Read the
+          <a href="https://www.sciensano.be/sites/default/files/kbs_pod_nl_genoominfo_26.03.2019_hr.pdf">citizen forum report in Dutch</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://sciensano.be/en/projects/citizens-forum-use-genomic-information-health-care">
-            About the citizen forum
-          </a>
+          About the
+          <a href="https://sciensano.be/en/projects/citizens-forum-use-genomic-information-health-care">citizen forum</a>
         </li>
       </ul>
     </article>
@@ -424,19 +422,18 @@ permalink: /lets-talk-genomics/debbietest
 
       <ul class="ge-links">
         <li>
-          <a href="https://www.sciensano.be/sites/default/files/dossier_pedagogique_-_introduction.pdf">
-            Read the teaching guide introduction in French (PDF)
-          </a>
+          Read the
+          <a href="https://www.sciensano.be/sites/default/files/dossier_pedagogique_-_introduction.pdf">teaching guide introduction in French</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://www.sciensano.be/sites/default/files/1_lesformule_inleiding_nlv2.pdf">
-            Read the teaching guide introduction in Dutch (PDF)
-          </a>
+          Read the
+          <a href="https://www.sciensano.be/sites/default/files/1_lesformule_inleiding_nlv2.pdf">teaching guide introduction in Dutch</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://www.sciensano.be/en/projects/dna-debate">
-            About DNA Debate
-          </a>
+          About
+          <a href="https://www.sciensano.be/en/projects/dna-debate">DNA Debate</a>
         </li>
       </ul>
     </article>
@@ -474,9 +471,8 @@ permalink: /lets-talk-genomics/debbietest
 
       <ul class="ge-links">
         <li>
-          <a href="https://www.demaakbaremens.org/themas/erfelijkheid/overal-dna-voor-leerkrachten/">
-            Explore the Overal DNA teaching materials in Dutch
-          </a>
+          Explore the
+          <a href="https://www.demaakbaremens.org/themas/erfelijkheid/overal-dna-voor-leerkrachten/">Overal DNA teaching materials in Dutch</a>
         </li>
       </ul>
     </article>
@@ -513,14 +509,12 @@ permalink: /lets-talk-genomics/debbietest
 
       <ul class="ge-links">
         <li>
-          <a href="https://hdl.handle.net/20.500.14493/5673">
-            Find the DNA Debate information booklet
-          </a>
+          Read the
+          <a href="https://hdl.handle.net/20.500.14493/5673">DNA Debate information booklet</a>
         </li>
         <li>
-          <a href="https://www.sciensano.be/fr/projets/debat-adn">
-            About DNA Debate
-          </a>
+          About
+          <a href="https://www.sciensano.be/fr/projets/debat-adn">DNA Debate</a>
         </li>
       </ul>
     </article>
@@ -556,9 +550,8 @@ permalink: /lets-talk-genomics/debbietest
 
       <ul class="ge-links">
         <li>
-          <a href="https://www.abc.net.au/listen/programs/healthreport/genetic-testing-life-insurance/104378404">
-            Listen to the genetic testing and life insurance podcast
-          </a>
+          Listen to the
+          <a href="https://www.abc.net.au/listen/programs/healthreport/genetic-testing-life-insurance/104378404">genetic testing and life insurance podcast</a>
         </li>
       </ul>
     </article>
@@ -598,14 +591,12 @@ permalink: /lets-talk-genomics/debbietest
 
       <ul class="ge-links">
         <li>
-          <a href="https://www.med.unc.edu/genetics/abgs/parent-community-engagement/">
-            Explore the genomics education modules
-          </a>
+          Explore the
+          <a href="https://www.med.unc.edu/genetics/abgs/parent-community-engagement/">genomics education modules</a>
         </li>
         <li>
-          <a href="https://www.med.unc.edu/genetics/abgs/">
-            About Age-Based Genomic Screening
-          </a>
+          About
+          <a href="https://www.med.unc.edu/genetics/abgs/">Age-Based Genomic Screening</a>
         </li>
       </ul>
     </article>
@@ -643,9 +634,8 @@ permalink: /lets-talk-genomics/debbietest
 
       <ul class="ge-links">
         <li>
-          <a href="https://www.yourgenome.org/">
-            Explore Your Genome
-          </a>
+          Explore
+          <a href="https://www.yourgenome.org/">Your Genome</a>
         </li>
       </ul>
     </article>
@@ -682,9 +672,8 @@ permalink: /lets-talk-genomics/debbietest
 
       <ul class="ge-links">
         <li>
-          <a href="https://genomequebec.com/en/educative-content/educational-space/">
-            Explore the Génome Québec educational space
-          </a>
+          Explore the
+          <a href="https://genomequebec.com/en/educative-content/educational-space/">Génome Québec educational space</a>
         </li>
       </ul>
     </article>
@@ -722,14 +711,13 @@ permalink: /lets-talk-genomics/debbietest
 
       <ul class="ge-links">
         <li>
-          <a href="https://www.genomicsengland.co.uk/assets/images/News-and-Events/News-Articles-Images/18-045132-01-Genomics-Dialogue-final.pdf">
-            Read the public dialogue on genomic medicine report (PDF)
-          </a>
+          Read the
+          <a href="https://www.genomicsengland.co.uk/assets/images/News-and-Events/News-Articles-Images/18-045132-01-Genomics-Dialogue-final.pdf">public dialogue on genomic medicine report</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://www.genomicsengland.co.uk/news/public-dialogue-report-published">
-            About the public dialogue
-          </a>
+          About the
+          <a href="https://www.genomicsengland.co.uk/news/public-dialogue-report-published">public dialogue</a>
         </li>
       </ul>
     </article>
@@ -768,14 +756,13 @@ permalink: /lets-talk-genomics/debbietest
 
       <ul class="ge-links">
         <li>
-          <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/959931/WGS_for_newborn_screening_FINAL_ACCESSIBLE.pdf">
-            Read the newborn screening dialogue report (PDF)
-          </a>
+          Read the
+          <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/959931/WGS_for_newborn_screening_FINAL_ACCESSIBLE.pdf">newborn screening dialogue report</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://www.genomicsengland.co.uk/initiatives/newborns/engagement">
-            About the newborns engagement programme
-          </a>
+          About the
+          <a href="https://www.genomicsengland.co.uk/initiatives/newborns/engagement">newborns engagement programme</a>
         </li>
       </ul>
     </article>
@@ -811,14 +798,13 @@ permalink: /lets-talk-genomics/debbietest
 
       <ul class="ge-links">
         <li>
-          <a href="https://www.eurordis.org/wp-content/uploads/2024/05/RB_NBS_report_vff.pdf">
-            Read Voices on newborn screening (PDF)
-          </a>
+          Read
+          <a href="https://www.eurordis.org/wp-content/uploads/2024/05/RB_NBS_report_vff.pdf">Voices on newborn screening</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://www.screen4care.eu/people-living-with-rare-diseases/involvement">
-            About involvement in Screen4Care
-          </a>
+          About
+          <a href="https://www.screen4care.eu/people-living-with-rare-diseases/involvement">involvement in Screen4Care</a>
         </li>
       </ul>
     </article>
@@ -857,14 +843,13 @@ permalink: /lets-talk-genomics/debbietest
 
       <ul class="ge-links">
         <li>
-          <a href="https://sciencewise.org.uk/wp-content/uploads/2018/07/HRA-report-2018-07.pdf">
-            Read the human tissue and health data dialogue report (PDF)
-          </a>
+          Read the
+          <a href="https://sciencewise.org.uk/wp-content/uploads/2018/07/HRA-report-2018-07.pdf">human tissue and health data dialogue report</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://sciencewise.org.uk/projects/human-tissue-in-health-research/">
-            About the public dialogue
-          </a>
+          About the
+          <a href="https://sciencewise.org.uk/projects/human-tissue-in-health-research/">public dialogue</a>
         </li>
       </ul>
     </article>
@@ -899,14 +884,14 @@ permalink: /lets-talk-genomics/debbietest
         <strong>Source:</strong> Wellcome Connecting Science
       </p>
 
-<ul class="ge-links">
-  <li>
-    Watch Your DNA Your Say:
-    <a href="https://vimeo.com/showcase/4657358">English</a> |
-    <a href="https://youtube.com/playlist?list=PLicKqIwYPVo6QvAhvGuBAwfo9LLdjVJZ0">Twi</a> |
-    <a href="https://www.wellcomeconnectingscience.org/project/your-dna-your-say/">About the project</a>
-  </li>
-</ul>
+      <ul class="ge-links">
+        <li>
+          Watch Your DNA Your Say:
+          <a href="https://vimeo.com/showcase/4657358">English</a> |
+          <a href="https://youtube.com/playlist?list=PLicKqIwYPVo6QvAhvGuBAwfo9LLdjVJZ0">Twi</a> |
+          <a href="https://www.wellcomeconnectingscience.org/project/your-dna-your-say/">About the project</a>
+        </li>
+      </ul>
     </article>
 
   </div>
