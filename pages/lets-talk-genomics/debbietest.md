@@ -899,23 +899,14 @@ permalink: /lets-talk-genomics/debbietest
         <strong>Source:</strong> Wellcome Connecting Science
       </p>
 
-      <ul class="ge-links">
-        <li>
-          <a href="https://vimeo.com/showcase/4657358">
-            Watch Your DNA Your Say in English
-          </a>
-        </li>
-        <li>
-          <a href="https://youtube.com/playlist?list=PLicKqIwYPVo6QvAhvGuBAwfo9LLdjVJZ0">
-            Watch Your DNA Your Say in Twi
-          </a>
-        </li>
-        <li>
-          <a href="https://www.wellcomeconnectingscience.org/project/your-dna-your-say/">
-            About Your DNA Your Say
-          </a>
-        </li>
-      </ul>
+<ul class="ge-links">
+  <li>
+    Watch Your DNA Your Say:
+    <a href="https://vimeo.com/showcase/4657358">English</a> |
+    <a href="https://youtube.com/playlist?list=PLicKqIwYPVo6QvAhvGuBAwfo9LLdjVJZ0">Twi</a> |
+    <a href="https://www.wellcomeconnectingscience.org/project/your-dna-your-say/">About the project</a>
+  </li>
+</ul>
     </article>
 
   </div>
