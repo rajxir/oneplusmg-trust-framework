@@ -150,14 +150,6 @@ permalink: /lets-talk-genomics/debbietest
   text-underline-offset: .15em;
 }
 
-.ge-directory .ge-related {
-  margin-top: 2.5rem;
-}
-
-.ge-directory .ge-related .ge-card {
-  max-width: 42rem;
-}
-
 @media (max-width: 800px) {
   .ge-directory .ge-card-grid {
     grid-template-columns: 1fr;
@@ -177,16 +169,16 @@ permalink: /lets-talk-genomics/debbietest
 
 <div class="ge-directory" id="ge-directory">
 
-  <h1>Genomics engagement resources</h1>
+  <h1>Engagement resources</h1>
 
   <p>
-    Find materials to help explain genomics, support discussion and learn from
-    public engagement initiatives. Browse educational resources, discussion
-    materials and reports of public and patient perspectives.
+    A selection of educational resources and engagement materials to help explain
+    genomics, support discussions and learn about citizens’ and patients’
+    perspectives collected from public engagement initiatives.
   </p>
 
   <p>
-    Each resource includes topic, format and language labels, with links to the
+    Browse each resource by topic, format and language labels, with links to the
     original materials. Resources are listed alphabetically by title.
   </p>
 
@@ -263,7 +255,6 @@ permalink: /lets-talk-genomics/debbietest
 
   <div class="ge-card-grid" id="ge-resource-list" aria-labelledby="ge-browse">
 
-    <!-- Confirm the intended CCNE report edition before publication. -->
     <article
       class="ge-card"
       data-topics="genomic-medicine ethics privacy"
@@ -272,10 +263,6 @@ permalink: /lets-talk-genomics/debbietest
       aria-labelledby="ge-resource-1"
     >
       <h3 id="ge-resource-1">Bioethics and genomic medicine in France</h3>
-
-      <p class="ge-organisation">
-        Comité consultatif national d’éthique (CCNE)
-      </p>
 
       <p class="ge-description">
         A report from the 2018 États généraux de la bioéthique consultation,
@@ -295,11 +282,15 @@ permalink: /lets-talk-genomics/debbietest
         <strong>Language:</strong> French
       </p>
 
+      <p class="ge-organisation">
+        <strong>Source:</strong> Comité consultatif national d’éthique (CCNE)
+      </p>
+
       <ul class="ge-links">
         <li>
-          <a href="https://www.ccne-ethique.fr/sites/default/files/2022-05/Rapport%20de%20synthe%CC%80se%20CCNE%20Bat.pdf">
-            Read the bioethics consultation report in French (PDF)
-          </a>
+          Read the
+          <a href="https://www.ccne-ethique.fr/sites/default/files/2022-05/Rapport%20de%20synthe%CC%80se%20CCNE%20Bat.pdf">bioethics consultation report in French</a>
+          (PDF)
         </li>
       </ul>
     </article>
@@ -314,8 +305,6 @@ permalink: /lets-talk-genomics/debbietest
       <h3 id="ge-resource-2">
         Black African and Black Caribbean perspectives on genomic research
       </h3>
-
-      <p class="ge-organisation">Genomics England</p>
 
       <p class="ge-description">
         A qualitative study exploring the views of Black African and Black
@@ -333,16 +322,19 @@ permalink: /lets-talk-genomics/debbietest
         <strong>Language:</strong> English
       </p>
 
+      <p class="ge-organisation">
+        <strong>Source:</strong> Genomics England
+      </p>
+
       <ul class="ge-links">
         <li>
-          <a href="https://files.genomicsengland.co.uk/images/News-and-Events/News-Articles-Images/black-african-black-caribbean-communities-participation-100kgp.pdf">
-            Read the report on participation in the 100,000 Genomes Project (PDF)
-          </a>
+          Read the
+          <a href="https://files.genomicsengland.co.uk/images/News-and-Events/News-Articles-Images/black-african-black-caribbean-communities-participation-100kgp.pdf">report on participation in the 100,000 Genomes Project</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://www.genomicsengland.co.uk/news/100000-genomes-project-public-attitudes">
-            About the public engagement research
-          </a>
+          About the
+          <a href="https://www.genomicsengland.co.uk/news/100000-genomes-project-public-attitudes">public engagement research</a>
         </li>
       </ul>
     </article>
@@ -358,13 +350,10 @@ permalink: /lets-talk-genomics/debbietest
         Citizen recommendations on the use of genomic information
       </h3>
 
-      <p class="ge-organisation">
-        Sciensano and the King Baudouin Foundation
-      </p>
-
       <p class="ge-description">
         Recommendations from a Belgian citizen forum on the ethical and
-        social questions raised by using genomic information in healthcare.
+        social questions raised by using genomic information in and outside
+        of healthcare.
       </p>
 
       <div class="ge-topics">
@@ -379,21 +368,24 @@ permalink: /lets-talk-genomics/debbietest
         <strong>Languages:</strong> French, Dutch
       </p>
 
+      <p class="ge-organisation">
+        <strong>Source:</strong> Sciensano and the King Baudouin Foundation
+      </p>
+
       <ul class="ge-links">
         <li>
-          <a href="https://www.sciensano.be/sites/default/files/kbs_pod_fr_genoominfo_26.03.2019_hr.pdf">
-            Read the citizen forum report in French (PDF)
-          </a>
+          Read the
+          <a href="https://www.sciensano.be/sites/default/files/kbs_pod_fr_genoominfo_26.03.2019_hr.pdf">citizen forum report in French</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://www.sciensano.be/sites/default/files/kbs_pod_nl_genoominfo_26.03.2019_hr.pdf">
-            Read the citizen forum report in Dutch (PDF)
-          </a>
+          Read the
+          <a href="https://www.sciensano.be/sites/default/files/kbs_pod_nl_genoominfo_26.03.2019_hr.pdf">citizen forum report in Dutch</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://sciensano.be/en/projects/citizens-forum-use-genomic-information-health-care">
-            About the citizen forum
-          </a>
+          About the
+          <a href="https://sciensano.be/en/projects/citizens-forum-use-genomic-information-health-care">citizen forum</a>
         </li>
       </ul>
     </article>
@@ -406,8 +398,6 @@ permalink: /lets-talk-genomics/debbietest
       aria-labelledby="ge-resource-4"
     >
       <h3 id="ge-resource-4">Classroom discussions about DNA and society</h3>
-
-      <p class="ge-organisation">Sciensano — DNA Debate</p>
 
       <p class="ge-description">
         Teaching guides to help secondary school students discuss ethical
@@ -426,21 +416,24 @@ permalink: /lets-talk-genomics/debbietest
         <strong>Languages:</strong> French, Dutch
       </p>
 
+      <p class="ge-organisation">
+        <strong>Source:</strong> Sciensano – DNA Debate
+      </p>
+
       <ul class="ge-links">
         <li>
-          <a href="https://www.sciensano.be/sites/default/files/dossier_pedagogique_-_introduction.pdf">
-            Read the teaching guide introduction in French (PDF)
-          </a>
+          Read the
+          <a href="https://www.sciensano.be/sites/default/files/dossier_pedagogique_-_introduction.pdf">teaching guide introduction in French</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://www.sciensano.be/sites/default/files/1_lesformule_inleiding_nlv2.pdf">
-            Read the teaching guide introduction in Dutch (PDF)
-          </a>
+          Read the
+          <a href="https://www.sciensano.be/sites/default/files/1_lesformule_inleiding_nlv2.pdf">teaching guide introduction in Dutch</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://www.sciensano.be/en/projects/dna-debate">
-            About DNA Debate
-          </a>
+          About
+          <a href="https://www.sciensano.be/en/projects/dna-debate">DNA Debate</a>
         </li>
       </ul>
     </article>
@@ -453,8 +446,6 @@ permalink: /lets-talk-genomics/debbietest
       aria-labelledby="ge-resource-5"
     >
       <h3 id="ge-resource-5">Classroom discussions about genetics</h3>
-
-      <p class="ge-organisation">De Maakbare Mens — Overal DNA</p>
 
       <p class="ge-description">
         Dutch-language materials for teachers exploring inheritance, genetic
@@ -474,26 +465,26 @@ permalink: /lets-talk-genomics/debbietest
         <strong>Language:</strong> Dutch
       </p>
 
+      <p class="ge-organisation">
+        <strong>Source:</strong> De Maakbare Mens — Overal DNA
+      </p>
+
       <ul class="ge-links">
         <li>
-          <a href="https://www.demaakbaremens.org/themas/erfelijkheid/overal-dna-voor-leerkrachten/">
-            Explore the Overal DNA teaching materials in Dutch
-          </a>
+          Explore the
+          <a href="https://www.demaakbaremens.org/themas/erfelijkheid/overal-dna-voor-leerkrachten/">Overal DNA teaching materials in Dutch</a>
         </li>
       </ul>
     </article>
 
-    <!-- Confirm the French booklet download in the publication record. -->
     <article
       class="ge-card"
       data-topics="genomic-medicine ethics"
       data-format="booklet"
-      data-languages="fr"
+      data-languages="nl"
       aria-labelledby="ge-resource-6"
     >
       <h3 id="ge-resource-6">DNA Debate case studies</h3>
-
-      <p class="ge-organisation">Sciensano</p>
 
       <p class="ge-description">
         An information booklet using nine case studies to prompt discussion
@@ -509,19 +500,21 @@ permalink: /lets-talk-genomics/debbietest
 
       <p class="ge-meta">
         <strong>Format:</strong> Booklet<br>
-        <strong>Language:</strong> French
+        <strong>Language:</strong> Dutch
+      </p>
+
+      <p class="ge-organisation">
+        <strong>Source:</strong> Sciensano
       </p>
 
       <ul class="ge-links">
         <li>
-          <a href="https://hdl.handle.net/20.500.14493/5673">
-            Find the DNA Debate information booklet
-          </a>
+          Read the
+          <a href="https://hdl.handle.net/20.500.14493/5673">DNA Debate information booklet</a>
         </li>
         <li>
-          <a href="https://www.sciensano.be/fr/projets/debat-adn">
-            About DNA Debate
-          </a>
+          About
+          <a href="https://www.sciensano.be/fr/projets/debat-adn">DNA Debate</a>
         </li>
       </ul>
     </article>
@@ -534,8 +527,6 @@ permalink: /lets-talk-genomics/debbietest
       aria-labelledby="ge-resource-7"
     >
       <h3 id="ge-resource-7">Genetic testing and life insurance</h3>
-
-      <p class="ge-organisation">ABC Radio — Health Report</p>
 
       <p class="ge-description">
         A podcast discussing a ban on the use of genetic test results by
@@ -553,11 +544,14 @@ permalink: /lets-talk-genomics/debbietest
         <strong>Language:</strong> English
       </p>
 
+      <p class="ge-organisation">
+        <strong>Source:</strong> ABC Radio — Health Report
+      </p>
+
       <ul class="ge-links">
         <li>
-          <a href="https://www.abc.net.au/listen/programs/healthreport/genetic-testing-life-insurance/104378404">
-            Listen to the genetic testing and life insurance podcast
-          </a>
+          Listen to the
+          <a href="https://www.abc.net.au/listen/programs/healthreport/genetic-testing-life-insurance/104378404">genetic testing and life insurance podcast</a>
         </li>
       </ul>
     </article>
@@ -570,10 +564,6 @@ permalink: /lets-talk-genomics/debbietest
       aria-labelledby="ge-resource-8"
     >
       <h3 id="ge-resource-8">Genomics education for parents and communities</h3>
-
-      <p class="ge-organisation">
-        University of North Carolina at Chapel Hill — Age-Based Genomic Screening
-      </p>
 
       <p class="ge-description">
         Learning modules explaining DNA, inheritance, genetic screening,
@@ -594,16 +584,19 @@ permalink: /lets-talk-genomics/debbietest
         <strong>Language:</strong> English
       </p>
 
+      <p class="ge-organisation">
+        <strong>Source:</strong> University of North Carolina at Chapel Hill —
+        Age-Based Genomic Screening
+      </p>
+
       <ul class="ge-links">
         <li>
-          <a href="https://www.med.unc.edu/genetics/abgs/parent-community-engagement/">
-            Explore the genomics education modules
-          </a>
+          Explore the
+          <a href="https://www.med.unc.edu/genetics/abgs/parent-community-engagement/">genomics education modules</a>
         </li>
         <li>
-          <a href="https://www.med.unc.edu/genetics/abgs/">
-            About Age-Based Genomic Screening
-          </a>
+          About
+          <a href="https://www.med.unc.edu/genetics/abgs/">Age-Based Genomic Screening</a>
         </li>
       </ul>
     </article>
@@ -616,8 +609,6 @@ permalink: /lets-talk-genomics/debbietest
       aria-labelledby="ge-resource-9"
     >
       <h3 id="ge-resource-9">Genomics learning resources from Your Genome</h3>
-
-      <p class="ge-organisation">Wellcome Sanger Institute</p>
 
       <p class="ge-description">
         A collection of articles, videos, activities and discussion resources
@@ -637,11 +628,14 @@ permalink: /lets-talk-genomics/debbietest
         <strong>Language:</strong> English
       </p>
 
+      <p class="ge-organisation">
+        <strong>Source:</strong> Wellcome Sanger Institute
+      </p>
+
       <ul class="ge-links">
         <li>
-          <a href="https://www.yourgenome.org/">
-            Explore Your Genome
-          </a>
+          Explore
+          <a href="https://www.yourgenome.org/">Your Genome</a>
         </li>
       </ul>
     </article>
@@ -656,8 +650,6 @@ permalink: /lets-talk-genomics/debbietest
       <h3 id="ge-resource-10">
         Interactive genomics learning from Génome Québec
       </h3>
-
-      <p class="ge-organisation">Génome Québec</p>
 
       <p class="ge-description">
         An educational website offering resources and activities to explore
@@ -674,11 +666,14 @@ permalink: /lets-talk-genomics/debbietest
         <strong>Languages:</strong> French, English
       </p>
 
+      <p class="ge-organisation">
+        <strong>Source:</strong> Génome Québec
+      </p>
+
       <ul class="ge-links">
         <li>
-          <a href="https://genomequebec.com/en/educative-content/educational-space/">
-            Explore the Génome Québec educational space
-          </a>
+          Explore the
+          <a href="https://genomequebec.com/en/educative-content/educational-space/">Génome Québec educational space</a>
         </li>
       </ul>
     </article>
@@ -690,11 +685,7 @@ permalink: /lets-talk-genomics/debbietest
       data-languages="en"
       aria-labelledby="ge-resource-11"
     >
-      <h3 id="ge-resource-11">
-        Public views on genomic medicine and the NHS
-      </h3>
-
-      <p class="ge-organisation">Genomics England — report by Ipsos MORI</p>
+      <h3 id="ge-resource-11">Public views on genomic medicine and the NHS</h3>
 
       <p class="ge-description">
         A public dialogue report exploring expectations of genomic medicine,
@@ -714,16 +705,19 @@ permalink: /lets-talk-genomics/debbietest
         <strong>Language:</strong> English
       </p>
 
+      <p class="ge-organisation">
+        <strong>Source:</strong> Genomics England
+      </p>
+
       <ul class="ge-links">
         <li>
-          <a href="https://www.genomicsengland.co.uk/assets/images/News-and-Events/News-Articles-Images/18-045132-01-Genomics-Dialogue-final.pdf">
-            Read the public dialogue on genomic medicine report (PDF)
-          </a>
+          Read the
+          <a href="https://www.genomicsengland.co.uk/assets/images/News-and-Events/News-Articles-Images/18-045132-01-Genomics-Dialogue-final.pdf">public dialogue on genomic medicine report</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://www.genomicsengland.co.uk/news/public-dialogue-report-published">
-            About the public dialogue
-          </a>
+          About the
+          <a href="https://www.genomicsengland.co.uk/news/public-dialogue-report-published">public dialogue</a>
         </li>
       </ul>
     </article>
@@ -738,10 +732,6 @@ permalink: /lets-talk-genomics/debbietest
       <h3 id="ge-resource-12">
         Public views on whole genome sequencing for newborns
       </h3>
-
-      <p class="ge-organisation">
-        Genomics England and the UK National Screening Committee
-      </p>
 
       <p class="ge-description">
         A public dialogue report exploring the implications of using whole
@@ -760,16 +750,19 @@ permalink: /lets-talk-genomics/debbietest
         <strong>Language:</strong> English
       </p>
 
+      <p class="ge-organisation">
+        <strong>Source:</strong> Genomics England and the UK National Screening Committee
+      </p>
+
       <ul class="ge-links">
         <li>
-          <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/959931/WGS_for_newborn_screening_FINAL_ACCESSIBLE.pdf">
-            Read the newborn screening dialogue report (PDF)
-          </a>
+          Read the
+          <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/959931/WGS_for_newborn_screening_FINAL_ACCESSIBLE.pdf">newborn screening dialogue report</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://www.genomicsengland.co.uk/initiatives/newborns/engagement">
-            About the newborns engagement programme
-          </a>
+          About the
+          <a href="https://www.genomicsengland.co.uk/initiatives/newborns/engagement">newborns engagement programme</a>
         </li>
       </ul>
     </article>
@@ -781,18 +774,12 @@ permalink: /lets-talk-genomics/debbietest
       data-languages="en"
       aria-labelledby="ge-resource-13"
     >
-      <h3 id="ge-resource-13">
-        Rare disease perspectives on newborn screening
-      </h3>
-
-      <p class="ge-organisation">
-        EURORDIS — Rare Barometer and Screen4Care
-      </p>
+      <h3 id="ge-resource-13">Rare disease perspectives on newborn screening</h3>
 
       <p class="ge-description">
         European survey findings on newborn screening from people living
         with a rare disease and their families, published in the
-        <em>Voices on newborn screening</em> report.
+        Voices on newborn screening report.
       </p>
 
       <div class="ge-topics">
@@ -805,16 +792,19 @@ permalink: /lets-talk-genomics/debbietest
         <strong>Language:</strong> English
       </p>
 
+      <p class="ge-organisation">
+        <strong>Source:</strong> EURORDIS – Rare Barometer and Screen4Care
+      </p>
+
       <ul class="ge-links">
         <li>
-          <a href="https://www.eurordis.org/wp-content/uploads/2024/05/RB_NBS_report_vff.pdf">
-            Read Voices on newborn screening (PDF)
-          </a>
+          Read
+          <a href="https://www.eurordis.org/wp-content/uploads/2024/05/RB_NBS_report_vff.pdf">Voices on newborn screening</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://www.screen4care.eu/people-living-with-rare-diseases/involvement">
-            About involvement in Screen4Care
-          </a>
+          About
+          <a href="https://www.screen4care.eu/people-living-with-rare-diseases/involvement">involvement in Screen4Care</a>
         </li>
       </ul>
     </article>
@@ -829,10 +819,6 @@ permalink: /lets-talk-genomics/debbietest
       <h3 id="ge-resource-14">
         Using human tissue and linked health data in research
       </h3>
-
-      <p class="ge-organisation">
-        Health Research Authority and Human Tissue Authority
-      </p>
 
       <p class="ge-description">
         A public dialogue report exploring consent for linking human tissue
@@ -851,21 +837,23 @@ permalink: /lets-talk-genomics/debbietest
         <strong>Language:</strong> English
       </p>
 
+      <p class="ge-organisation">
+        <strong>Source:</strong> Health Research Authority and Human Tissue Authority
+      </p>
+
       <ul class="ge-links">
         <li>
-          <a href="https://sciencewise.org.uk/wp-content/uploads/2018/07/HRA-report-2018-07.pdf">
-            Read the human tissue and health data dialogue report (PDF)
-          </a>
+          Read the
+          <a href="https://sciencewise.org.uk/wp-content/uploads/2018/07/HRA-report-2018-07.pdf">human tissue and health data dialogue report</a>
+          (PDF)
         </li>
         <li>
-          <a href="https://sciencewise.org.uk/projects/human-tissue-in-health-research/">
-            About the public dialogue
-          </a>
+          About the
+          <a href="https://sciencewise.org.uk/projects/human-tissue-in-health-research/">public dialogue</a>
         </li>
       </ul>
     </article>
 
-    <!-- Check playback and language of the Twi playlist before publication. -->
     <article
       class="ge-card"
       data-topics="privacy ethics"
@@ -874,8 +862,6 @@ permalink: /lets-talk-genomics/debbietest
       aria-labelledby="ge-resource-15"
     >
       <h3 id="ge-resource-15">Your DNA Your Say videos</h3>
-
-      <p class="ge-organisation">Wellcome Connecting Science</p>
 
       <p class="ge-description">
         Short films explaining genomic data sharing and the questions it
@@ -894,72 +880,29 @@ permalink: /lets-talk-genomics/debbietest
         <strong>Languages:</strong> English, Twi
       </p>
 
+      <p class="ge-organisation">
+        <strong>Source:</strong> Wellcome Connecting Science
+      </p>
+
       <ul class="ge-links">
         <li>
-          <a href="https://vimeo.com/showcase/4657358">
-            Watch Your DNA Your Say in English
-          </a>
-        </li>
-        <li>
-          <a href="https://youtube.com/playlist?list=PLicKqIwYPVo6QvAhvGuBAwfo9LLdjVJZ0">
-            Watch Your DNA Your Say in Twi
-          </a>
-        </li>
-        <li>
-          <a href="https://www.wellcomeconnectingscience.org/project/your-dna-your-say/">
-            About Your DNA Your Say
-          </a>
+          Watch Your DNA Your Say:
+          <a href="https://vimeo.com/showcase/4657358">English</a> |
+          <a href="https://youtube.com/playlist?list=PLicKqIwYPVo6QvAhvGuBAwfo9LLdjVJZ0">Twi</a> |
+          <a href="https://www.wellcomeconnectingscience.org/project/your-dna-your-say/">About the project</a>
         </li>
       </ul>
     </article>
 
   </div>
 
-  <section class="ge-related" aria-labelledby="ge-related-heading">
-
-    <h2 id="ge-related-heading">Related resource: AI in healthcare</h2>
-
-    <p>
-      This resource covers a broader health technology topic and is separate
-      from the genomics list above.
-    </p>
-
-    <article class="ge-card" aria-labelledby="ge-resource-16">
-
-      <h3 id="ge-resource-16">
-        What AI scribes can and cannot do for healthcare
-      </h3>
-
-      <p class="ge-organisation">ABC Radio — Health Report</p>
-
-      <p class="ge-description">
-        A podcast exploring the capabilities and limitations of AI scribes
-        in healthcare.
-      </p>
-
-      <div class="ge-topics">
-        <span class="ge-label">Topics:</span>
-        <span class="ge-tag">AI and healthcare</span>
-      </div>
-
-      <p class="ge-meta">
-        <strong>Format:</strong> Podcast<br>
-        <strong>Language:</strong> English
-      </p>
-
-      <ul class="ge-links">
-        <li>
-          <a href="https://www.abc.net.au/listen/programs/healthreport/ai-in-healthcare-scribes/105568802">
-            Listen to the AI scribes podcast
-          </a>
-        </li>
-      </ul>
-
-    </article>
-
-  </section>
-
 </div>
+
+<!-- Editorial checks from the agreed document (not displayed on the page):
+  - Confirm the intended CCNE report edition before publication.
+  - Confirm the French booklet download in the publication record.
+  - Check playback and language of the Twi playlist before publication.
+-->
 
 <script>
 (() => {
