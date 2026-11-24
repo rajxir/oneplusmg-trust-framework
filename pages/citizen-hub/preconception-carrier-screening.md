@@ -5,7 +5,7 @@ permalink: /lets-talk-genomics/preconception-carrier-screening
 
 # Before pregnancy
 
-<img src="/assets/img/before-pregnancy.jpeg" alt="Before pregnancy" width="560" style="max-width:100%; height:auto;">
+<img src="{{ '/assets/img/before-pregnancy.jpeg' | relative_url }}" alt="Before pregnancy" width="560" style="max-width:100%; height:auto;">
 
 ## What is preconception carrier screening?
 
