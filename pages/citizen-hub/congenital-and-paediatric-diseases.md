@@ -4,6 +4,7 @@ permalink: /lets-talk-genomics/congenital-and-paediatric-diseases
 ---
 
 # During childhood
+
 <img src="{{ 'assets/img/during-childhood.jpeg' | relative_url }}" alt="Genetic conditions in childhood" width="560"/>
 
 ## Genetic conditions in childhood
