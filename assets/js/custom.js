@@ -163,3 +163,75 @@ document.querySelectorAll('details').forEach(detail => {
       document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
     });
   });
+
+(() => {
+  'use strict';
+
+  const root = document.getElementById('ge-directory');
+
+  if (!root) return;
+
+  const list = root.querySelector('#ge-resource-list');
+
+  const cards = Array.from(list.querySelectorAll('.ge-card')).map(element => ({
+    element,
+    topics: (element.dataset.topics || '').split(/\s+/),
+    format: element.dataset.format,
+    languages: (element.dataset.languages || '').split(/\s+/)
+  }));
+
+  const topic = root.querySelector('#ge-topic');
+  const format = root.querySelector('#ge-format');
+  const language = root.querySelector('#ge-language');
+  const count = root.querySelector('#ge-count');
+  const empty = root.querySelector('#ge-empty');
+  const controls = root.querySelector('#ge-controls');
+  const reset = root.querySelector('#ge-reset');
+
+  function updateResources() {
+    let visible = 0;
+
+    cards.forEach(card => {
+      const matchesTopic =
+        !topic.value || card.topics.includes(topic.value);
+
+      const matchesFormat =
+        !format.value || card.format === format.value;
+
+      const matchesLanguage =
+        !language.value || card.languages.includes(language.value);
+
+      const matches =
+        matchesTopic && matchesFormat && matchesLanguage;
+
+      card.element.hidden = !matches;
+
+      if (matches) visible++;
+    });
+
+    const filtered = Boolean(
+      topic.value || format.value || language.value
+    );
+
+    count.textContent = filtered
+      ? `Showing ${visible} of ${cards.length} genomics resources.`
+      : `Showing all ${cards.length} genomics resources.`;
+
+    empty.hidden = visible !== 0;
+  }
+
+  [topic, format, language].forEach(select => {
+    select.addEventListener('change', updateResources);
+  });
+
+  reset.addEventListener('click', () => {
+    topic.value = '';
+    format.value = '';
+    language.value = '';
+
+    updateResources();
+  });
+
+  updateResources();
+  controls.hidden = false;
+})();

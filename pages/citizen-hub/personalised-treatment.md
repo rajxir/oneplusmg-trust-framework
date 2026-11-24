@@ -14,6 +14,7 @@ permalink: /lets-talk-genomics/personalised-treatment
 ## Genetics and cancer
 
 [In 2020, an estimated four million people in Europe received a cancer diagnosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC8568058/?utm_source=chatgpt.com#sec3). Cancer develops when certain cells in the body start to grow and divide in an uncontrolled way. Over recent years, research has shown that changes or [variants](glossary#variant) in our [genes](glossary#gene) often play a key role in driving this process.
+<img src="{{ 'assets/img/starting-a-treatment.jpeg' | relative_url }}" class="rightpos" alt="Genetics and cancer" />
 
 Genetic testing can help determine whether these genetic changes were present in someone’s [genome](glossary#genome) from birth or whether they developed later in life.
 

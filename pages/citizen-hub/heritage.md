@@ -5,6 +5,8 @@ permalink: /lets-talk-genomics/heritage
 
 # Heritage
 
+<img src="{{ 'assets/img/heritage.jpeg' | relative_url }}" alt="Heritage" width="560"/>
+
 [Genomic](glossary#genomics) information can tell us something about our past, present and future. It can help us better understand our current health (for example, by linking symptoms to a genetic condition), suggest how our health might evolve over time (for example, by identifying genetic predispositions to certain diseases), and offer insights into where we come from. The latter includes both our immediate family background, such as who our parents and close relatives are, and our more distant origins, including ancestors and cultural histories.
 
 ## Family relationships and genomic information

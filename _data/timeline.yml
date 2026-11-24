@@ -1,0 +1,45 @@
+# _data/timeline.yml
+- title: Before birth
+  items:
+    - title: Before pregnancy
+      url: preconception-carrier-screening
+      icon: /assets/img/timeline/before-pregnancy.png
+      tagline: Supporting reproductive choices
+    - title: During pregnancy
+      url: prenatal-testing
+      icon: /assets/img/timeline/during-pregnancy.png
+      tagline: Navigating expanding prenatal information
+
+- title: Childhood
+  items:
+    - title: At birth
+      url: newborn-screening
+      icon: /assets/img/timeline/at-birth.png
+      tagline: Ethically managing newborn data
+    - title: During childhood
+      url: congenital-and-paediatric-diseases
+      icon: /assets/img/timeline/during-childhood.png
+      tagline: Weighing present needs and future rights
+
+- title: Adulthood
+  items:
+    - title: Illness in the family
+      url: cascade-screening
+      icon: /assets/img/timeline/family-member-ill.png
+      tagline: Balancing family duties and privacy
+    - title: Preventing diseases
+      url: risk-based-prevention
+      icon: /assets/img/timeline/preventing-diseases.png
+      tagline: Turning genomic information into prevention
+    - title: When illness strikes
+      url: diagnostic-testing
+      icon: /assets/img/timeline/illness-strikes.png
+      tagline: Improving diagnoses by genomics
+    - title: Starting a treatment
+      url: personalised-treatment
+      icon: /assets/img/timeline/starting-treatment.png
+      tagline: Personalising treatment through genetics
+    - title: After death
+      url: after-death
+      icon: /assets/img/timeline/after-death.png
+      tagline: The value of post-mortem genomic data

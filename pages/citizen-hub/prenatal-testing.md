@@ -5,6 +5,8 @@ permalink: /lets-talk-genomics/prenatal-testing
 
 # During pregnancy
 
+<img src="/assets/img/during-pregnancy.jpeg" alt="During pregnancy" width="560" style="max-width:100%; height:auto;">
+
 During pregnancy, regular follow-up and testing are important for the health of the mother and baby. Advances in science and technology have significantly changed prenatal testing over time, resulting in new possibilities for information and care, but also raising new questions and debates.
 
 ## How prenatal testing has changed
