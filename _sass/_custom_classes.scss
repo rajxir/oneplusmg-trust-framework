@@ -394,12 +394,12 @@ main{
     margin-bottom: 2.5rem;
 }
 a{
-    color: #377A80;
+    color: $blue;
     text-decoration: none;
 	transition: all 0.5s;
 }
 a:hover{
-    color: #00494c;
+    color: $dark;
     transition: all 0.5s ease;
 }
 .text-primary{
@@ -1722,12 +1722,12 @@ main{
     margin-bottom: 2.5rem;
 }
 a{
-    color: #377A80;
+    color: $blue;
     text-decoration: none;
 	transition: all 0.5s;
 }
 a:hover{
-    color: #00494c;
+    color: $dark;
     transition: all 0.5s ease;
 }
 .text-primary{
