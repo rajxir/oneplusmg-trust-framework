@@ -7,7 +7,7 @@ permalink: /lets-talk-genomics/dna
 # My DNA vs our DNA
 
 [Genomics](glossary#genomics) can offer significant benefits for individuals. It can improve the accuracy of diagnoses, guide more targeted treatments and support what is known as personalised medicine (for more information, see the topic [Starting a treatment](personalised-treatment). Due to the close link between genomic information and an individual’s specific characteristics, strong privacy protection is essential (see the topic [Privacy](privacy) for more information).
-<img src="{{ 'assets/img/dna.jpg' | relative_url }}" class="rightpos" alt="My DNA versus Our DNA" />
+<img src="{{ 'assets/img/dna.jpeg' | relative_url }}" class="rightpos" alt="My DNA versus Our DNA" />
 
 At the same time, about 99% of the human [genome](glossary#genome) is shared across all people. Genomics, therefore, also highlights what we have in common and can generate benefits at the population level. For example, genomic research has supported the development of vaccines for widespread illnesses such as influenza.
 
