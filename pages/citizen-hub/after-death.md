@@ -5,6 +5,8 @@ permalink: /lets-talk-genomics/after-death
 
 # After death
 
+<img src="{{ '/assets/img/after-death.jpeg' | relative_url }}" alt="After death" width="560" style="max-width:100%; height:auto;">
+
 A person’s life has a clear beginning and end, but the situation is more complex when it comes to [genomic](glossary#genomics) data. When someone undergoes genetic testing in a clinical setting or participates in a research project, their genomic data may be stored in databases long after they (the data subject) have passed away. This is because genetic and genomic data can retain long-term value for research, healthcare and even family members (for more information, see the topic [My DNA vs our DNA](dna)).
 
 ## Why genomic data outlives us

@@ -18,6 +18,7 @@ permalink: /lets-talk-genomics/vulnerabilities
 ## Genomics and vulnerability
 
 [Genomics](glossary#genomics) offers unprecedented opportunities to improve our health. Understanding how our [genes](glossary#gene) and their small [variations](glossary#variant) influence disease risk improves diagnosis, treatment and prevention, and enables more [personalised medicine](glossary#personalised-medicine). At the same time, genomic information can create new kinds of vulnerability. Genetic test results can reveal inherent susceptibilities to disease, raise privacy concerns — particularly for [rare conditions](glossary#rare-disease) — or provide information with  uncertain value when there's no effective or affordable treatment. Genomic information can also be misused, for example, by employers or insurers, potentially leading to stigma or discrimination. For these reasons, it's essential to put safeguards and trustworthy frameworks in place to help people manage vulnerabilities and prevent misuse.
+<img src="{{ 'assets/img/vulnerabilities.jpeg' | relative_url }}" class="rightpos" alt="Genomics and vulnerability" />
 
 ## Inherent vulnerabilities and susceptibility
 

@@ -15,6 +15,7 @@ permalink: /lets-talk-genomics/diagnostic-testing
 ## When it's hard to reach a diagnosis
 
 Sometimes, traditional clinical investigations like physical examinations, blood tests or imaging are not enough to explain a person’s symptoms. When this happens, genetic or [genomic](glossary#genomics) testing can provide additional clues and may help end a long and difficult search for answers. Receiving a diagnosis can bring clarity and relief, and can be an important step towards appropriate treatment or support. For more information, see the topic [Starting a treatment](personalised-treatment).
+<img src="{{ 'assets/img/when-illness-strikes.jpeg' | relative_url }}" class="rightpos" alt="When it's hard to reach a diagnosis" />
 
 ## Rare diseases and the role of genomics
 

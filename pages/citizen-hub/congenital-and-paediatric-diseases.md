@@ -5,6 +5,8 @@ permalink: /lets-talk-genomics/congenital-and-paediatric-diseases
 
 # During childhood
 
+<img src="{{ 'assets/img/during-childhood.jpeg' | relative_url }}" alt="Genetic conditions in childhood" width="560"/>
+
 ## Genetic conditions in childhood
 
 Many diseases that show symptoms during infancy, childhood or adolescence (such as cystic fibrosis, Duchenne muscular dystrophy or Down syndrome) have a genetic basis. Genetic testing can play an important role in reaching an accurate diagnosis and enabling early treatment, care and support.

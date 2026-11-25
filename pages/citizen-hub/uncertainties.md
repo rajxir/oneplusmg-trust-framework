@@ -14,6 +14,7 @@ permalink: /lets-talk-genomics/uncertainties
 ## Introduction
 
 Genomics can provide valuable information about people’s health, their relatives and even future children. This knowledge can help guide medical decisions, improve treatments and support prevention. However, the results of genomic tests are not always straightforward or easy to interpret, and they may not always match people’s expectations. Uncertainty is therefore an inherent part of genomics that must be carefully understood and managed.
+<img src="{{ 'assets/img/interpreting-results.jpeg' | relative_url }}" class="rightpos" alt="Interpreting results" />
 
 ## Uncertain results
 

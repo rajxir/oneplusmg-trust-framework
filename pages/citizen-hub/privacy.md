@@ -11,6 +11,7 @@ permalink: /lets-talk-genomics/privacy
 - [Balancing benefits and risks](#balancing-benefits-and-risks)
 
 Technological advances have made it possible to analyse [DNA](glossary#dna) more quickly and at lower cost, as well as to share genomic data on a much larger scale. These advances support scientific research and medical care by enabling more [personalised](glossary#personalised-medicine) and effective approaches to healthcare (for more information, see the topics [Preventing diseases](risk-based-prevention) and [Starting a treatment](personalised-treatment)). However, this potential for personalisation that genomics offers also raises important privacy concerns. Our [genes](glossary#gene) contain sensitive information about us and, in some cases, about our relatives. This raises key questions: who should be allowed to access genetic data, and for what purposes? How can we keep people safe from data misuse? And what level of risk are we ready to accept to benefit from personalised medicine? Open discussion is essential to ensure genomic data is used in ways that reflect shared values and bring more benefits than harm.
+<img src="{{ 'assets/img/privacy.jpeg' | relative_url }}" class="rightpos" alt="Privacy" />
 
 ## What privacy means in genomics
 

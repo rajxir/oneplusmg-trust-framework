@@ -13,6 +13,7 @@ permalink: /lets-talk-genomics/newborn-screening
 ## Introduction
 
 At birth, newborn screening (NBS) – sometimes called newborn blood spot screening or neonatal testing – helps detect serious but treatable diseases in babies. By taking a few drops of blood soon after delivery,  serious [congenital conditions](glossary#congenital-disease) are detected that may not show symptoms immediately, but can cause serious health problems if untreated. Conditions tested can include cystic fibrosis (or mucoviscidosis), spinal muscular atrophy, blood disorders and hearing loss. [See an overview of conditions currently included in newborn screening programmes across Europe](https://media.crai.com/wp-content/uploads/2021/11/28135510/CRA-Insights-NBS-Policy-Updated-28-February-2024-vSTCCR.pdf). Early detection and diagnosis (before symptoms appear), however, allow for timely treatment, monitoring and preventive care. This improves the quality of life and ensures every child has equal access to lifesaving care. 
+<img src="{{ 'assets/img/at-birth.jpeg' | relative_url }}" class="rightpos" alt="At birth" />
 
 Nevertheless, NBS also raises important ethical and societal points of discussion.
 

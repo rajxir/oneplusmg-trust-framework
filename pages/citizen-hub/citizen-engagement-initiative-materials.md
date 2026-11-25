@@ -3,309 +3,735 @@ layout: lets-talk-genomics
 permalink: /lets-talk-genomics/citizen-engagement-initiative-materials
 ---
 
-# Citizen engagement initiative materials
 
-<table class="resources-table">
-  <colgroup>
-    <col style="width: 14%;">
-    <col style="width: 16%;">
-    <col style="width: 18%;">
-    <col style="width: 10%;">
-    <col style="width: 22%;">
-    <col style="width: 20%;">
-  </colgroup>
+<div class="ge-directory" id="ge-directory">
 
-  <thead>
-    <tr>
-      <th>Organisation</th>
-      <th>Initiative</th>
-      <th>Link to the general initiative</th>
-      <th>Material</th>
-      <th>Description</th>
-      <th>Link</th>
-    </tr>
-  </thead>
+  <h1>Engagement resources</h1>
 
-  <tbody>
-    <!-- ABC Radio (2 rows) -->
-    <tr>
-      <td rowspan="2">ABC Radio</td>
-      <td rowspan="2">Health report</td>
-      <td rowspan="2">
-        <a href="https://www.abc.net.au/listen/programs/healthreport" target="_blank" rel="noopener">
-          https://www.abc.net.au/listen/programs/healthreport
-        </a>
-      </td>
-      <td>Podcast</td>
-      <td>Podcast on life insurers being banned from using genetic data</td>
-      <td>
-        EN:
-        <a href="https://www.abc.net.au/listen/programs/healthreport/genetic-testing-life-insurance/104378404" target="_blank" rel="noopener">
-          https://www.abc.net.au/listen/programs/healthreport/genetic-testing-life-insurance/104378404
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Podcast</td>
-      <td>Podcast on what AI scribes can (and can't) do for healthcare</td>
-      <td>
-        EN:
-        <a href="https://www.abc.net.au/listen/programs/healthreport/ai-in-healthcare-scribes/105568802" target="_blank" rel="noopener">
-          https://www.abc.net.au/listen/programs/healthreport/ai-in-healthcare-scribes/105568802
-        </a>
-      </td>
-    </tr>
+  <p>
+    A selection of educational resources and engagement materials to help explain
+    genomics, support discussions and learn about citizens’ and patients’
+    perspectives collected from public engagement initiatives.
+  </p>
 
-    <!-- CCNE -->
-    <tr>
-      <td>CCNE</td>
-      <td>États généraux de la bioéthique</td>
-      <td>
-        <a href="https://www.ccne-ethique.fr/publications/rapports-de-synthese-des-etats-generaux-de-la-bioethique" target="_blank" rel="noopener">
-          https://www.ccne-ethique.fr/publications/rapports-de-synthese-des-etats-generaux-de-la-bioethique
-        </a>
-      </td>
-      <td>Report</td>
-      <td>French citizens’ opinions on several bioethical topics, incl. genomic medicine</td>
-      <td>
-        FR:
-        <a href="https://www.ccne-ethique.fr/sites/default/files/2022-05/Rapport%20de%20synth%C3%A8se%20CCNE%20AG2022%20aout.pdf" target="_blank" rel="noopener">
-          https://www.ccne-ethique.fr/sites/default/files/2022-05/Rapport%20de%20synth%C3%A8se%20CCNE%20AG2022%20aout.pdf
-        </a>
-      </td>
-    </tr>
+  <p>
+    Browse each resource by topic, format and language labels, with links to the
+    original materials. Resources are listed alphabetically by title.
+  </p>
 
-    <!-- De Maakbare Mens -->
-    <tr>
-      <td>De Maakbare Mens</td>
-      <td>Overal Lespakket Genetica</td>
-      <td>
-        <a href="https://www.demaakbaremens.org/themas/erfelijkheid/" target="_blank" rel="noopener">
-          https://www.demaakbaremens.org/themas/erfelijkheid/
-        </a>
-      </td>
-      <td>Teaching material</td>
-      <td>Educational material to launch the ethical and societal debate in secondary school classrooms</td>
-      <td>
-        NL:
-        <a href="https://www.demaakbaremens.org/themas/erfelijkheid/overal-dna-voor-leerkrachten/" target="_blank" rel="noopener">
-          https://www.demaakbaremens.org/themas/erfelijkheid/overal-dna-voor-leerkrachten/
-        </a>
-      </td>
-    </tr>
+  <fieldset class="ge-controls" id="ge-controls" hidden>
+    <legend>Find resources</legend>
 
-    <!-- Eurordis -->
-    <tr>
-      <td>Eurordis</td>
-      <td>Screen4Care</td>
-      <td>
-        <a href="https://www.screen4care.eu/people-living-with-rare-diseases/involvement" target="_blank" rel="noopener">
-          https://www.screen4care.eu/people-living-with-rare-diseases/involvement
-        </a>
-      </td>
-      <td>Report</td>
-      <td>Survey’s results about European rare disease patients’ opinion on newborn screening</td>
-      <td>
-        EN:
-        <a href="https://www.eurordis.org/publications/voices-on-newborn-screening-the-report/" target="_blank" rel="noopener">
-          https://www.eurordis.org/publications/voices-on-newborn-screening-the-report/
-        </a>
-      </td>
-    </tr>
+    <p>
+      Choose a topic, format or language to narrow the list. You can combine filters.
+    </p>
 
-    <!-- Genome Quebec -->
-    <tr>
-      <td>Genome Quebec</td>
-      <td>Genome Quebec</td>
-      <td>
-        <a href="https://genomequebec.com/en/" target="_blank" rel="noopener">
-          https://genomequebec.com/en/
-        </a>
-      </td>
-      <td>Website</td>
-      <td>Interactive educational website on genomics</td>
-      <td>
-        FR/EN:
-        <a href="https://genomequebec.com/en/educative-content/educational-space/" target="_blank" rel="noopener">
-          https://genomequebec.com/en/educative-content/educational-space/
-        </a>
-      </td>
-    </tr>
+    <div class="ge-filter-row">
 
-    <!-- Genomics England (2 initiatives) -->
-    <tr>
-      <td>Genomics England</td>
-      <td>Public dialogue on whole-genome sequencing for newborns</td>
-      <td>
-        <a href="https://www.genomicsengland.co.uk/initiatives/newborns/engagement" target="_blank" rel="noopener">
-          https://www.genomicsengland.co.uk/initiatives/newborns/engagement
-        </a>
-      </td>
-      <td>Report</td>
-      <td>UK citizens’ opinions on whole genome sequencing for newborn screening</td>
-      <td>
-        EN:
-        <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/959931/WGS_for_newborn_screening_FINAL_ACCESSIBLE.pdf" target="_blank" rel="noopener">
-          https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/959931/WGS_for_newborn_screening_FINAL_ACCESSIBLE.pdf
-        </a>
-      </td>
-    </tr>
+      <div class="ge-filter">
+        <label for="ge-topic">Topic</label>
+        <select id="ge-topic" aria-controls="ge-resource-list">
+          <option value="">All topics</option>
+          <option value="consent">Consent</option>
+          <option value="ethics">Ethics and society</option>
+          <option value="genetic-screening">Genetic screening</option>
+          <option value="genomic-medicine">Genomic medicine</option>
+          <option value="genomics-basics">Genomics basics</option>
+          <option value="insurance">Insurance and discrimination</option>
+          <option value="newborn-screening">Newborn screening</option>
+          <option value="privacy">Privacy and data use</option>
+        </select>
+      </div>
 
-    <tr>
-      <td>Genomics England</td>
-      <td>A new public dialogue on genomic medicine: Time for a new social contract?</td>
-      <td>
-        <a href="https://www.genomicsengland.co.uk/news/public-dialogue-report-published" target="_blank" rel="noopener">
-          https://www.genomicsengland.co.uk/news/public-dialogue-report-published
-        </a>
-      </td>
-      <td>Report</td>
-      <td>UK citizens’ opinions on genomic medicine</td>
-      <td>
-        EN:
-        <a href="#" target="_blank" rel="noopener">[replace with the exact PDF link from your doc]</a>
-      </td>
-    </tr>
+      <div class="ge-filter">
+        <label for="ge-format">Format</label>
+        <select id="ge-format" aria-controls="ge-resource-list">
+          <option value="">All formats</option>
+          <option value="booklet">Booklet</option>
+          <option value="podcast">Podcast</option>
+          <option value="report">Report</option>
+          <option value="teaching-materials">Teaching materials</option>
+          <option value="video">Video</option>
+          <option value="website">Website</option>
+        </select>
+      </div>
 
-    <!-- Genomics England qualitative exploration -->
-    <tr>
-      <td>Genomics England</td>
-      <td>
-        A Qualitative Exploration: Views of Black African and Black Caribbean Communities on the 100,000 Genomes Project
-      </td>
-      <td>
-        <a href="https://www.genomicsengland.co.uk/" target="_blank" rel="noopener">
-          https://www.genomicsengland.co.uk/
-        </a>
-      </td>
-      <td>Report</td>
-      <td>Opinions of Black African and Black Caribbean communities on the 100,000 Genomes Project</td>
-      <td>
-        EN:
-        <a href="#" target="_blank" rel="noopener">[replace with the exact PDF link from your doc]</a>
-      </td>
-    </tr>
+      <div class="ge-filter">
+        <label for="ge-language">Language</label>
+        <select id="ge-language" aria-controls="ge-resource-list">
+          <option value="">All languages</option>
+          <option value="nl">Dutch</option>
+          <option value="en">English</option>
+          <option value="fr">French</option>
+          <option value="tw">Twi</option>
+        </select>
+      </div>
 
-    <!-- HRA + HTA -->
-    <tr>
-      <td>Health Research Authority (HRA) and Human Tissue Authority (HTA)</td>
-      <td>Public dialogue on consent to human tissue and linked health data in research</td>
-      <td>
-        <a href="https://sciencewise.org.uk/" target="_blank" rel="noopener">
-          https://sciencewise.org.uk/ (project page)
-        </a>
-      </td>
-      <td>Report</td>
-      <td>UK citizens’ opinions on consent procedures in human tissue research and related health data</td>
-      <td>
-        EN:
-        <a href="#" target="_blank" rel="noopener">[replace with the exact PDF link from your doc]</a>
-      </td>
-    </tr>
+    </div>
 
-    <!-- Sciensano (Citizen forum: 2 links) -->
-    <tr>
-      <td rowspan="2">Sciensano</td>
-      <td rowspan="2">Citizen forum</td>
-      <td rowspan="2">
-        <a href="https://www.sciensano.be/en/projects/citizens-forum-user-centric-information-healthcare" target="_blank" rel="noopener">
-          https://www.sciensano.be/en/projects/citizens-forum-user-centric-information-healthcare
-        </a>
-      </td>
-      <td rowspan="2">Report</td>
-      <td rowspan="2">Belgian citizens’ ethical recommendations on genomic information usage</td>
-      <td>
-        FR:
-        <a href="#" target="_blank" rel="noopener">[replace with FR PDF link]</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        NL:
-        <a href="#" target="_blank" rel="noopener">[replace with NL PDF link]</a>
-      </td>
-    </tr>
+    <button class="ge-reset" id="ge-reset" type="button">
+      Reset filters
+    </button>
+  </fieldset>
 
-    <!-- Sciensano DNA Debate -->
-    <tr>
-      <td>Sciensano</td>
-      <td>DNA Debate</td>
-      <td>
-        <a href="https://www.sciensano.be/en/projects/dna-debate" target="_blank" rel="noopener">
-          https://www.sciensano.be/en/projects/dna-debate
-        </a>
-      </td>
-      <td>Booklet</td>
-      <td>Nine case studies raising ethical and societal issues in genomic information usage</td>
-      <td>
-        FR:
-        <a href="#" target="_blank" rel="noopener">[replace with the exact booklet PDF link]</a>
-      </td>
-    </tr>
+  <p id="ge-count" role="status" aria-live="polite" aria-atomic="true">
+    Showing all 15 genomics resources.
+  </p>
 
-    <!-- Sciensano teaching material row shown on last page -->
-    <tr>
-      <td>Sciensano</td>
-      <td><!-- (blank in screenshot) --></td>
-      <td><!-- (blank in screenshot) --></td>
-      <td>Teaching material</td>
-      <td>Pedagogical exercises to launch the ethical and societal debate in secondary school classrooms</td>
-      <td>
-        NL:
-        <a href="#" target="_blank" rel="noopener">[replace with NL PDF link]</a><br>
-        FR:
-        <a href="#" target="_blank" rel="noopener">[replace with FR PDF link]</a>
-      </td>
-    </tr>
+  <h2 id="ge-browse">Browse genomics resources</h2>
 
-    <!-- UNC Chapel Hill -->
-    <tr>
-      <td>UNC Chapel Hill</td>
-      <td>The Age-Based Genomic Screening</td>
-      <td>
-        <a href="https://www.med.unc.edu/genetics/abgs" target="_blank" rel="noopener">
-          https://www.med.unc.edu/genetics/abgs
-        </a>
-      </td>
-      <td>Website</td>
-      <td>Educational modules on genomics</td>
-      <td>
-        EN:
-        <a href="https://www.med.unc.edu/genetics/abgs/parent-community-engagement/" target="_blank" rel="noopener">
-          https://www.med.unc.edu/genetics/abgs/parent-community-engagement/
-        </a>
-      </td>
-    </tr>
+  <p>
+    Where several language versions are available, choose the link for your
+    preferred language.
+  </p>
 
-    <!-- Wellcome Connecting Science (2 rows: Videos + Interactive website) -->
-    <tr>
-      <td rowspan="2">Wellcome Connecting Science</td>
-      <td rowspan="2">Your DNA, your say</td>
-      <td rowspan="2">
-        <a href="https://www.wellcomeconnectingscience.org/project/your-dna-your-say/" target="_blank" rel="noopener">
-          https://www.wellcomeconnectingscience.org/project/your-dna-your-say/
-        </a>
-      </td>
-      <td>Videos</td>
-      <td>Educational videos on genetics</td>
-      <td>
-        EN:
-        <a href="https://vimeo.com/showcase/4657358" target="_blank" rel="noopener">
-          https://vimeo.com/showcase/4657358
-        </a><br>
-        Twi (Ghana):
-        <a href="#" target="_blank" rel="noopener">[replace with YouTube playlist link]</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Interactive website</td>
-      <td>Educational teaching materials on genomics</td>
-      <td>
-        EN:
-        <a href="https://www.yourgenome.org/" target="_blank" rel="noopener">
-          https://www.yourgenome.org/
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <p id="ge-empty" hidden>
+    No resources match your filters. Try another topic, format or language,
+    or reset the filters.
+  </p>
+
+  <div class="ge-card-grid" id="ge-resource-list" aria-labelledby="ge-browse">
+
+    <article
+      class="ge-card"
+      data-topics="genomic-medicine ethics privacy"
+      data-format="report"
+      data-languages="fr"
+      aria-labelledby="ge-resource-1"
+    >
+      <h3 id="ge-resource-1">Bioethics and genomic medicine in France</h3>
+
+      <p class="ge-description">
+        A report from the 2018 États généraux de la bioéthique consultation,
+        bringing together public contributions on bioethical questions,
+        including genetic testing, genomic medicine and health data.
+      </p>
+
+      <div class="ge-topics">
+        <span class="ge-label">Topics:</span>
+        <span class="ge-tag">Genomic medicine</span>
+        <span class="ge-tag">Ethics and society</span>
+        <span class="ge-tag">Privacy and data use</span>
+      </div>
+
+      <p class="ge-meta">
+        <strong>Format:</strong> Report<br>
+        <strong>Language:</strong> French
+      </p>
+
+      <p class="ge-organisation">
+        <strong>Source:</strong> Comité consultatif national d’éthique (CCNE)
+      </p>
+
+      <ul class="ge-links">
+        <li>
+          Read the
+          <a href="https://www.ccne-ethique.fr/sites/default/files/2022-05/Rapport%20de%20synthe%CC%80se%20CCNE%20Bat.pdf">bioethics consultation report in French</a>
+          (PDF)
+        </li>
+      </ul>
+    </article>
+
+    <article
+      class="ge-card"
+      data-topics="genomic-medicine ethics"
+      data-format="report"
+      data-languages="en"
+      aria-labelledby="ge-resource-2"
+    >
+      <h3 id="ge-resource-2">
+        Black African and Black Caribbean perspectives on genomic research
+      </h3>
+
+      <p class="ge-description">
+        A qualitative study exploring the views of Black African and Black
+        Caribbean communities on participation in the 100,000 Genomes Project.
+      </p>
+
+      <div class="ge-topics">
+        <span class="ge-label">Topics:</span>
+        <span class="ge-tag">Genomic medicine</span>
+        <span class="ge-tag">Ethics and society</span>
+      </div>
+
+      <p class="ge-meta">
+        <strong>Format:</strong> Report<br>
+        <strong>Language:</strong> English
+      </p>
+
+      <p class="ge-organisation">
+        <strong>Source:</strong> Genomics England
+      </p>
+
+      <ul class="ge-links">
+        <li>
+          Read the
+          <a href="https://files.genomicsengland.co.uk/images/News-and-Events/News-Articles-Images/black-african-black-caribbean-communities-participation-100kgp.pdf">report on participation in the 100,000 Genomes Project</a>
+          (PDF)
+        </li>
+        <li>
+          About the
+          <a href="https://www.genomicsengland.co.uk/news/100000-genomes-project-public-attitudes">public engagement research</a>
+        </li>
+      </ul>
+    </article>
+
+    <article
+      class="ge-card"
+      data-topics="genomic-medicine ethics privacy"
+      data-format="report"
+      data-languages="fr nl"
+      aria-labelledby="ge-resource-3"
+    >
+      <h3 id="ge-resource-3">
+        Citizen recommendations on the use of genomic information
+      </h3>
+
+      <p class="ge-description">
+        Recommendations from a Belgian citizen forum on the ethical and
+        social questions raised by using genomic information in and outside
+        of healthcare.
+      </p>
+
+      <div class="ge-topics">
+        <span class="ge-label">Topics:</span>
+        <span class="ge-tag">Genomic medicine</span>
+        <span class="ge-tag">Ethics and society</span>
+        <span class="ge-tag">Privacy and data use</span>
+      </div>
+
+      <p class="ge-meta">
+        <strong>Format:</strong> Report<br>
+        <strong>Languages:</strong> French, Dutch
+      </p>
+
+      <p class="ge-organisation">
+        <strong>Source:</strong> Sciensano and the King Baudouin Foundation
+      </p>
+
+      <ul class="ge-links">
+        <li>
+          Read the
+          <a href="https://www.sciensano.be/sites/default/files/kbs_pod_fr_genoominfo_26.03.2019_hr.pdf">citizen forum report in French</a>
+          (PDF)
+        </li>
+        <li>
+          Read the
+          <a href="https://www.sciensano.be/sites/default/files/kbs_pod_nl_genoominfo_26.03.2019_hr.pdf">citizen forum report in Dutch</a>
+          (PDF)
+        </li>
+        <li>
+          About the
+          <a href="https://sciensano.be/en/projects/citizens-forum-use-genomic-information-health-care">citizen forum</a>
+        </li>
+      </ul>
+    </article>
+
+    <article
+      class="ge-card"
+      data-topics="ethics privacy"
+      data-format="teaching-materials"
+      data-languages="fr nl"
+      aria-labelledby="ge-resource-4"
+    >
+      <h3 id="ge-resource-4">Classroom discussions about DNA and society</h3>
+
+      <p class="ge-description">
+        Teaching guides to help secondary school students discuss ethical
+        questions about DNA information, develop reasoned opinions and
+        consider different perspectives.
+      </p>
+
+      <div class="ge-topics">
+        <span class="ge-label">Topics:</span>
+        <span class="ge-tag">Ethics and society</span>
+        <span class="ge-tag">Privacy and data use</span>
+      </div>
+
+      <p class="ge-meta">
+        <strong>Format:</strong> Teaching materials<br>
+        <strong>Languages:</strong> French, Dutch
+      </p>
+
+      <p class="ge-organisation">
+        <strong>Source:</strong> Sciensano – DNA Debate
+      </p>
+
+      <ul class="ge-links">
+        <li>
+          Read the
+          <a href="https://www.sciensano.be/sites/default/files/dossier_pedagogique_-_introduction.pdf">teaching guide introduction in French</a>
+          (PDF)
+        </li>
+        <li>
+          Read the
+          <a href="https://www.sciensano.be/sites/default/files/1_lesformule_inleiding_nlv2.pdf">teaching guide introduction in Dutch</a>
+          (PDF)
+        </li>
+        <li>
+          About
+          <a href="https://www.sciensano.be/en/projects/dna-debate">DNA Debate</a>
+        </li>
+      </ul>
+    </article>
+
+    <article
+      class="ge-card"
+      data-topics="genomics-basics ethics privacy"
+      data-format="teaching-materials"
+      data-languages="nl"
+      aria-labelledby="ge-resource-5"
+    >
+      <h3 id="ge-resource-5">Classroom discussions about genetics</h3>
+
+      <p class="ge-description">
+        Dutch-language materials for teachers exploring inheritance, genetic
+        testing and the ethical and social questions surrounding genetics,
+        with topics ranging from pregnancy to privacy.
+      </p>
+
+      <div class="ge-topics">
+        <span class="ge-label">Topics:</span>
+        <span class="ge-tag">Genomics basics</span>
+        <span class="ge-tag">Ethics and society</span>
+        <span class="ge-tag">Privacy and data use</span>
+      </div>
+
+      <p class="ge-meta">
+        <strong>Format:</strong> Teaching materials<br>
+        <strong>Language:</strong> Dutch
+      </p>
+
+      <p class="ge-organisation">
+        <strong>Source:</strong> De Maakbare Mens — Overal DNA
+      </p>
+
+      <ul class="ge-links">
+        <li>
+          Explore the
+          <a href="https://www.demaakbaremens.org/themas/erfelijkheid/overal-dna-voor-leerkrachten/">Overal DNA teaching materials in Dutch</a>
+        </li>
+      </ul>
+    </article>
+
+    <article
+      class="ge-card"
+      data-topics="genomic-medicine ethics"
+      data-format="booklet"
+      data-languages="nl"
+      aria-labelledby="ge-resource-6"
+    >
+      <h3 id="ge-resource-6">DNA Debate case studies</h3>
+
+      <p class="ge-description">
+        An information booklet using nine case studies to prompt discussion
+        about the ethical and social implications of using genomic
+        information in healthcare.
+      </p>
+
+      <div class="ge-topics">
+        <span class="ge-label">Topics:</span>
+        <span class="ge-tag">Genomic medicine</span>
+        <span class="ge-tag">Ethics and society</span>
+      </div>
+
+      <p class="ge-meta">
+        <strong>Format:</strong> Booklet<br>
+        <strong>Language:</strong> Dutch
+      </p>
+
+      <p class="ge-organisation">
+        <strong>Source:</strong> Sciensano
+      </p>
+
+      <ul class="ge-links">
+        <li>
+          Read the
+          <a href="https://hdl.handle.net/20.500.14493/5673">DNA Debate information booklet</a>
+        </li>
+        <li>
+          About
+          <a href="https://www.sciensano.be/fr/projets/debat-adn">DNA Debate</a>
+        </li>
+      </ul>
+    </article>
+
+    <article
+      class="ge-card"
+      data-topics="insurance privacy"
+      data-format="podcast"
+      data-languages="en"
+      aria-labelledby="ge-resource-7"
+    >
+      <h3 id="ge-resource-7">Genetic testing and life insurance</h3>
+
+      <p class="ge-description">
+        A podcast discussing a ban on the use of genetic test results by
+        life insurers in Australia.
+      </p>
+
+      <div class="ge-topics">
+        <span class="ge-label">Topics:</span>
+        <span class="ge-tag">Insurance and discrimination</span>
+        <span class="ge-tag">Privacy and data use</span>
+      </div>
+
+      <p class="ge-meta">
+        <strong>Format:</strong> Podcast<br>
+        <strong>Language:</strong> English
+      </p>
+
+      <p class="ge-organisation">
+        <strong>Source:</strong> ABC Radio — Health Report
+      </p>
+
+      <ul class="ge-links">
+        <li>
+          Listen to the
+          <a href="https://www.abc.net.au/listen/programs/healthreport/genetic-testing-life-insurance/104378404">genetic testing and life insurance podcast</a>
+        </li>
+      </ul>
+    </article>
+
+    <article
+      class="ge-card"
+      data-topics="genomics-basics genetic-screening privacy consent"
+      data-format="website"
+      data-languages="en"
+      aria-labelledby="ge-resource-8"
+    >
+      <h3 id="ge-resource-8">Genomics education for parents and communities</h3>
+
+      <p class="ge-description">
+        Learning modules explaining DNA, inheritance, genetic screening,
+        privacy and consent. Materials include comics and slides developed
+        with input from a Community Research Board.
+      </p>
+
+      <div class="ge-topics">
+        <span class="ge-label">Topics:</span>
+        <span class="ge-tag">Genomics basics</span>
+        <span class="ge-tag">Genetic screening</span>
+        <span class="ge-tag">Privacy and data use</span>
+        <span class="ge-tag">Consent</span>
+      </div>
+
+      <p class="ge-meta">
+        <strong>Format:</strong> Website<br>
+        <strong>Language:</strong> English
+      </p>
+
+      <p class="ge-organisation">
+        <strong>Source:</strong> University of North Carolina at Chapel Hill —
+        Age-Based Genomic Screening
+      </p>
+
+      <ul class="ge-links">
+        <li>
+          Explore the
+          <a href="https://www.med.unc.edu/genetics/abgs/parent-community-engagement/">genomics education modules</a>
+        </li>
+        <li>
+          About
+          <a href="https://www.med.unc.edu/genetics/abgs/">Age-Based Genomic Screening</a>
+        </li>
+      </ul>
+    </article>
+
+    <article
+      class="ge-card"
+      data-topics="genomics-basics genomic-medicine ethics"
+      data-format="website"
+      data-languages="en"
+      aria-labelledby="ge-resource-9"
+    >
+      <h3 id="ge-resource-9">Genomics learning resources from Your Genome</h3>
+
+      <p class="ge-description">
+        A collection of articles, videos, activities and discussion resources
+        about genetics and genomics, with dedicated materials for students
+        and teachers.
+      </p>
+
+      <div class="ge-topics">
+        <span class="ge-label">Topics:</span>
+        <span class="ge-tag">Genomics basics</span>
+        <span class="ge-tag">Genomic medicine</span>
+        <span class="ge-tag">Ethics and society</span>
+      </div>
+
+      <p class="ge-meta">
+        <strong>Format:</strong> Website<br>
+        <strong>Language:</strong> English
+      </p>
+
+      <p class="ge-organisation">
+        <strong>Source:</strong> Wellcome Sanger Institute
+      </p>
+
+      <ul class="ge-links">
+        <li>
+          Explore
+          <a href="https://www.yourgenome.org/">Your Genome</a>
+        </li>
+      </ul>
+    </article>
+
+    <article
+      class="ge-card"
+      data-topics="genomics-basics"
+      data-format="website"
+      data-languages="fr en"
+      aria-labelledby="ge-resource-10"
+    >
+      <h3 id="ge-resource-10">
+        Interactive genomics learning from Génome Québec
+      </h3>
+
+      <p class="ge-description">
+        An educational website offering resources and activities to explore
+        genetics and genomics, available in French and English.
+      </p>
+
+      <div class="ge-topics">
+        <span class="ge-label">Topics:</span>
+        <span class="ge-tag">Genomics basics</span>
+      </div>
+
+      <p class="ge-meta">
+        <strong>Format:</strong> Website<br>
+        <strong>Languages:</strong> French, English
+      </p>
+
+      <p class="ge-organisation">
+        <strong>Source:</strong> Génome Québec
+      </p>
+
+      <ul class="ge-links">
+        <li>
+          Explore the
+          <a href="https://genomequebec.com/en/educative-content/educational-space/">Génome Québec educational space</a>
+        </li>
+      </ul>
+    </article>
+
+    <article
+      class="ge-card"
+      data-topics="genomic-medicine privacy ethics"
+      data-format="report"
+      data-languages="en"
+      aria-labelledby="ge-resource-11"
+    >
+      <h3 id="ge-resource-11">Public views on genomic medicine and the NHS</h3>
+
+      <p class="ge-description">
+        A public dialogue report exploring expectations of genomic medicine,
+        the relationship between the public and the NHS and acceptable uses
+        of genomic data.
+      </p>
+
+      <div class="ge-topics">
+        <span class="ge-label">Topics:</span>
+        <span class="ge-tag">Genomic medicine</span>
+        <span class="ge-tag">Privacy and data use</span>
+        <span class="ge-tag">Ethics and society</span>
+      </div>
+
+      <p class="ge-meta">
+        <strong>Format:</strong> Report<br>
+        <strong>Language:</strong> English
+      </p>
+
+      <p class="ge-organisation">
+        <strong>Source:</strong> Genomics England
+      </p>
+
+      <ul class="ge-links">
+        <li>
+          Read the
+          <a href="https://www.genomicsengland.co.uk/assets/images/News-and-Events/News-Articles-Images/18-045132-01-Genomics-Dialogue-final.pdf">public dialogue on genomic medicine report</a>
+          (PDF)
+        </li>
+        <li>
+          About the
+          <a href="https://www.genomicsengland.co.uk/news/public-dialogue-report-published">public dialogue</a>
+        </li>
+      </ul>
+    </article>
+
+    <article
+      class="ge-card"
+      data-topics="newborn-screening ethics"
+      data-format="report"
+      data-languages="en"
+      aria-labelledby="ge-resource-12"
+    >
+      <h3 id="ge-resource-12">
+        Public views on whole genome sequencing for newborns
+      </h3>
+
+      <p class="ge-description">
+        A public dialogue report exploring the implications of using whole
+        genome sequencing in newborn screening and the views of participants
+        in the UK.
+      </p>
+
+      <div class="ge-topics">
+        <span class="ge-label">Topics:</span>
+        <span class="ge-tag">Newborn screening</span>
+        <span class="ge-tag">Ethics and society</span>
+      </div>
+
+      <p class="ge-meta">
+        <strong>Format:</strong> Report<br>
+        <strong>Language:</strong> English
+      </p>
+
+      <p class="ge-organisation">
+        <strong>Source:</strong> Genomics England and the UK National Screening Committee
+      </p>
+
+      <ul class="ge-links">
+        <li>
+          Read the
+          <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/959931/WGS_for_newborn_screening_FINAL_ACCESSIBLE.pdf">newborn screening dialogue report</a>
+          (PDF)
+        </li>
+        <li>
+          About the
+          <a href="https://www.genomicsengland.co.uk/initiatives/newborns/engagement">newborns engagement programme</a>
+        </li>
+      </ul>
+    </article>
+
+    <article
+      class="ge-card"
+      data-topics="newborn-screening"
+      data-format="report"
+      data-languages="en"
+      aria-labelledby="ge-resource-13"
+    >
+      <h3 id="ge-resource-13">Rare disease perspectives on newborn screening</h3>
+
+      <p class="ge-description">
+        European survey findings on newborn screening from people living
+        with a rare disease and their families, published in the
+        Voices on newborn screening report.
+      </p>
+
+      <div class="ge-topics">
+        <span class="ge-label">Topics:</span>
+        <span class="ge-tag">Newborn screening</span>
+      </div>
+
+      <p class="ge-meta">
+        <strong>Format:</strong> Report<br>
+        <strong>Language:</strong> English
+      </p>
+
+      <p class="ge-organisation">
+        <strong>Source:</strong> EURORDIS – Rare Barometer and Screen4Care
+      </p>
+
+      <ul class="ge-links">
+        <li>
+          Read
+          <a href="https://www.eurordis.org/wp-content/uploads/2024/05/RB_NBS_report_vff.pdf">Voices on newborn screening</a>
+          (PDF)
+        </li>
+        <li>
+          About
+          <a href="https://www.screen4care.eu/people-living-with-rare-diseases/involvement">involvement in Screen4Care</a>
+        </li>
+      </ul>
+    </article>
+
+    <article
+      class="ge-card"
+      data-topics="consent privacy"
+      data-format="report"
+      data-languages="en"
+      aria-labelledby="ge-resource-14"
+    >
+      <h3 id="ge-resource-14">
+        Using human tissue and linked health data in research
+      </h3>
+
+      <p class="ge-description">
+        A public dialogue report exploring consent for linking human tissue
+        samples with health data in research, including participants’
+        expectations about privacy and the use of their information.
+      </p>
+
+      <div class="ge-topics">
+        <span class="ge-label">Topics:</span>
+        <span class="ge-tag">Consent</span>
+        <span class="ge-tag">Privacy and data use</span>
+      </div>
+
+      <p class="ge-meta">
+        <strong>Format:</strong> Report<br>
+        <strong>Language:</strong> English
+      </p>
+
+      <p class="ge-organisation">
+        <strong>Source:</strong> Health Research Authority and Human Tissue Authority
+      </p>
+
+      <ul class="ge-links">
+        <li>
+          Read the
+          <a href="https://sciencewise.org.uk/wp-content/uploads/2018/07/HRA-report-2018-07.pdf">human tissue and health data dialogue report</a>
+          (PDF)
+        </li>
+        <li>
+          About the
+          <a href="https://sciencewise.org.uk/projects/human-tissue-in-health-research/">public dialogue</a>
+        </li>
+      </ul>
+    </article>
+
+    <article
+      class="ge-card"
+      data-topics="privacy ethics"
+      data-format="video"
+      data-languages="en tw"
+      aria-labelledby="ge-resource-15"
+    >
+      <h3 id="ge-resource-15">Your DNA Your Say videos</h3>
+
+      <p class="ge-description">
+        Short films explaining genomic data sharing and the questions it
+        raises about privacy and access to information, created for the
+        Your DNA, Your Say public attitudes survey.
+      </p>
+
+      <div class="ge-topics">
+        <span class="ge-label">Topics:</span>
+        <span class="ge-tag">Privacy and data use</span>
+        <span class="ge-tag">Ethics and society</span>
+      </div>
+
+      <p class="ge-meta">
+        <strong>Format:</strong> Video<br>
+        <strong>Languages:</strong> English, Twi
+      </p>
+
+      <p class="ge-organisation">
+        <strong>Source:</strong> Wellcome Connecting Science
+      </p>
+
+      <ul class="ge-links">
+        <li>
+          Watch Your DNA Your Say:
+          <a href="https://vimeo.com/showcase/4657358">English</a> |
+          <a href="https://youtube.com/playlist?list=PLicKqIwYPVo6QvAhvGuBAwfo9LLdjVJZ0">Twi</a> |
+          <a href="https://www.wellcomeconnectingscience.org/project/your-dna-your-say/">About the project</a>
+        </li>
+      </ul>
+    </article>
+
+  </div>
+
+</div>
+
